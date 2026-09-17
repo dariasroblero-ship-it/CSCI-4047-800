@@ -6,4 +6,3 @@
 # pandas
 # pip install pandas
 # "as pd" makes "pd" a nickname for the package
-import pandas as pd
